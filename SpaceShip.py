@@ -92,8 +92,6 @@ class Explosion(object):
     def PlaySoundEffect(self):
         
         self.sfx.play()
-        
-        pass
 
 class Missile(pygame.sprite.Sprite):
     
