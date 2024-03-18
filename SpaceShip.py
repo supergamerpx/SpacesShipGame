@@ -91,7 +91,7 @@ class Explosion(object):
         
     def PlaySoundEffect(self):
         
-        #self.sfx.play()
+        self.sfx.play()
         
         pass
 
